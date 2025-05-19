@@ -2,16 +2,15 @@
     margin: 0;padding: 0;box-sizing: border-box;
 }
 .contactos figure img{
-    margin: 5px;
+    margin: 7px;
     font-size: 15px;
-    width: 20dvh;
-    height: 70px;
+    width: 30dvh;
+    height: 75px;
 }
 .contactos{
-    background-color: rgb(245, 9, 9);
+    background-color: rgb(187, 5, 5);
     position: fixed;
 }
-
 
 .impresion1{
     margin: 130px;
